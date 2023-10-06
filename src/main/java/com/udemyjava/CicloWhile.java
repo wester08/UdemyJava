@@ -8,7 +8,7 @@ package com.udemyjava;/*
  * @author wester.feliz
  */
 public class CicloWhile {
-    public static void main (String args[]){
+    public static void main (String[] args){
         
         //ciclo while
         

@@ -1,7 +1,7 @@
 package com.udemyjava;
 
 public class CaracteresEspeciales {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         var nombre = "Karla";
         System.out.println("Nueva linea: \n" + nombre); // imprimir en una linea nueva
